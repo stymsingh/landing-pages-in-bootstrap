@@ -1,0 +1,36 @@
+body{
+  background: url(apple1.jpg)  no-repeat center center fixed;
+  -webkit-background-size:cover;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.rowHeight{
+  height:500px;
+}
+
+
+h1{
+  color:red;
+  font-size: 2.5em;
+}
+
+.bg{
+  background-color: orange;
+  opacity:0.8;
+}
+
+.footer{
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+}
+
+.apple4{
+  margin-bottom: 50px;
+}
+
+p{
+  font-size:18px;
+  padding:10px;
+}

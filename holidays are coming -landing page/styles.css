@@ -1,0 +1,23 @@
+body{
+  background: url(holidays.jpg) no-repeat center center fixed;
+  /*background-repeat: no-repeat;
+    to align the image to the center from top and bottom
+    to align the image to the center from right and left*
+    a fixed image */
+    background-size: cover;
+    /* to fill the image on the entire page*/
+}
+
+.mega{
+  color: #fff;
+  margin-top:20%;
+  text-align: center;
+  font-size: 70px;
+  letter-spacing: +0.05em;
+  font-family: 'Architects Daughter', cursive;
+}
+
+.thumbnail{
+  height:100px;
+  width: 200px;
+}
